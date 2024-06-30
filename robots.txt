@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://denelewbor.github.io/sitemap
+Sitemap: https://denelewbor.github.io/app/sitemap
+Sitemap: https://denelewbor.github.io/assets/sitemap
+Sitemap: https://denelewbor.github.io/css/sitemap
+Sitemap: https://denelewbor.github.io/includes/sitemap
+Sitemap: https://denelewbor.github.io/item/sitemap
+Sitemap: https://denelewbor.github.io/src/sitemap
